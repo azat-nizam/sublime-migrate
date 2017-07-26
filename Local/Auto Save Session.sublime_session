@@ -1,0 +1,1127 @@
+{
+	"folder_history":
+	[
+		"/home/azat/Downloads/ls-builder",
+		"/home/azat/Downloads"
+	],
+	"last_version": 3126,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 719.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"borde",
+						"border-radius"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"D",
+						"DataC"
+					],
+					[
+						"print",
+						"print_r"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 332.0,
+				"last_filter": "menu",
+				"selected_items":
+				[
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"mi",
+						"View: Toggle Minimap"
+					],
+					[
+						"min",
+						"View: Toggle Minimap"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Pa",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax: htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"set syntax C",
+						"Set Syntax: C#"
+					],
+					[
+						"ne",
+						"ANF: New File"
+					],
+					[
+						"set syntax ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"new",
+						"ANF: New File"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"ta",
+						"View: Toggle Tabs"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"",
+						"ANF: Delete File"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"gist",
+						"Gist: Copy Gist URL"
+					],
+					[
+						"gis",
+						"Package Control: List Packages"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"set ",
+						"Set Syntax: Emmet"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"set Syntax H",
+						"Set Syntax: HTML"
+					],
+					[
+						"set",
+						"Set Syntax: Emmet"
+					],
+					[
+						"wra",
+						"Word Wrap: Toggle"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"a+1",
+					"_",
+					"a = 1",
+					"_",
+					"print(1)",
+					"_",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": true,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/azat/.config/sublime-text-3/Packages/User/Package Control.last-run",
+				"/home/azat/Downloads/ls-builder/gulpfile.js",
+				"/home/azat/Downloads/ls-builder/gulp/tasks/serve.js",
+				"/home/azat/Downloads/ls-builder/package.json",
+				"/home/azat/projects/TTS/tts-html/404.html",
+				"/home/azat/Downloads/ls-builder/bower.json",
+				"/home/azat/Downloads/ls-builder/source/style/common/greating.scss",
+				"/home/azat/Downloads/ls-builder/source/template/common/_greating.pug",
+				"/home/azat/Downloads/ls-builder/gulp/tasks/js.foundation.js",
+				"/home/azat/Downloads/app/gulpfile.js",
+				"/home/azat/Downloads/app/package.json",
+				"/home/azat/Downloads/app/source/inner.css",
+				"/home/azat/Downloads/app/source/app.css",
+				"/home/azat/Downloads/ls-builder/source/template/_template.pug",
+				"/home/azat/Downloads/ls-builder/source/template/pages/index.pug",
+				"/home/azat/Downloads/app/production/styles.css",
+				"/home/azat/Downloads/app/node_modules/gulp/package.json",
+				"/home/azat/Downloads/app/node_modules/jquery/package.json",
+				"/home/azat/Downloads/spsr/1/readme.txt",
+				"/home/azat/Downloads/spsr/1/source/PostHTTP.php",
+				"/home/azat/Downloads/app/index.html",
+				"/home/azat/Downloads/app/app.css",
+				"/home/azat/Downloads/11362956.fb2",
+				"/home/azat/Downloads/rashid.txt",
+				"/home/azat/Downloads/fslkjfl",
+				"/media/azat/SP UFD U2/курс/02 - Workflow/Дополнительные материалы и ссылки.txt",
+				"/home/azat/Downloads/vlad-education.txt",
+				"/home/azat/Downloads/radiation/timur.txt",
+				"/tmp/fz3temp-1/result_modifier.php",
+				"/tmp/fz3temp-1/component_epilog.php",
+				"/tmp/fz3temp-1/index.php",
+				"/tmp/fz3temp-1/template 2.php",
+				"/tmp/fz3temp-1/template_collection.php",
+				"/tmp/fz3temp-1/element.php",
+				"/tmp/fz3temp-1/.htaccess",
+				"/tmp/fz3temp-1/functions.php",
+				"/tmp/fz3temp-1/init.php",
+				"/tmp/fz3temp-1/constants.php",
+				"/tmp/fz3temp-1/template_safe.php",
+				"/tmp/fz3temp-1/template.php",
+				"/tmp/fz3temp-1/template 4.php",
+				"/tmp/fz3temp-1/template 3.php",
+				"/home/azat/Downloads/info.php",
+				"/tmp/fz3temp-1/.description.php",
+				"/tmp/fz3temp-1/config.php",
+				"/tmp/fz3temp-1/payment_result.php",
+				"/tmp/fz3temp-1/result.php",
+				"/tmp/fz3temp-1/result 2.php",
+				"/tmp/fz3temp-1/extract_ancodes.php",
+				"/tmp/fz3temp-1/build_dict.php",
+				"/tmp/fz3temp-1/mrd2xml.php",
+				"/tmp/fz3temp-1/extract_ancodes_map.php",
+				"/tmp/fz3temp-1/extract_gramtab.php",
+				"/tmp/fz3temp-1/convert_russian_jo.php",
+				"/tmp/fz3temp-1/extract_graminfo_header.php",
+				"/tmp/fz3temp-1/extract_gramtab.bat",
+				"/tmp/fz3temp-1/build_dict.bat",
+				"/tmp/fz3temp-1/web.config",
+				"/tmp/fz3temp-1/oshibka_yandex.php",
+				"/tmp/fz3temp-1/oplata_yandex.php",
+				"/tmp/fz3temp-1/error.php",
+				"/tmp/fz3temp-1/test.php",
+				"/tmp/fz3temp-1/test.log",
+				"/tmp/fz3temp-1/4607.html",
+				"/tmp/fz3temp-1/logDev_27.01.2017.txt",
+				"/tmp/fz3temp-1/logDev_25.04.2017.txt",
+				"/home/azat/Downloads/radiation/individual/timur.txt",
+				"/home/azat/Downloads/radiation/eo/log.txt",
+				"/tmp/fz3temp-1/script 2.js",
+				"/tmp/fz3temp-1/template 7.php",
+				"/tmp/fz3temp-1/section.php",
+				"/tmp/fz3temp-1/section_vertical.php",
+				"/tmp/fz3temp-1/template 9.php",
+				"/tmp/fz3temp-1/style.css",
+				"/tmp/fz3temp-1/style 2.css",
+				"/tmp/fz3temp-1/script 3.js",
+				"/tmp/fz3temp-1/template 8.php",
+				"/tmp/fz3temp-1/jquery.formstyler.css",
+				"/tmp/fz3temp-1/ajax.php",
+				"/tmp/fz3temp-1/.parameters.php",
+				"/tmp/fz3temp-1/section_horizontal.php",
+				"/tmp/fz3temp-1/template 6.php",
+				"/tmp/fz3temp-1/confirm.php",
+				"/tmp/fz3temp-1/template 5.php",
+				"/tmp/fz3temp-1/payment.php",
+				"/tmp/fz3temp-1/delivery.php",
+				"/tmp/fz3temp-1/summary.php",
+				"/tmp/fz3temp-1/detail.php",
+				"/tmp/fz3temp-1/script.js",
+				"/tmp/fz3temp-1/props.php",
+				"/tmp/fz3temp-1/props_format.php",
+				"/tmp/fz3temp-1/related_props.php",
+				"/tmp/fz3temp-1/template 10.php",
+				"/tmp/fz3temp-1/person_type.php",
+				"/tmp/fz3temp-1/map.php",
+				"/tmp/fz3temp-1/auth.php",
+				"/tmp/fz3temp-1/step.php",
+				"/tmp/fz3temp-1/start.php",
+				"/tmp/fz3temp-1/paysystem.php",
+				"/tmp/fz3temp-1/delivery_extra_params.php",
+				"/tmp/fz3temp-1/component_epilog 2.php",
+				"/tmp/fz3temp-1/.parameters 2.php",
+				"/tmp/fz3temp-1/script.min.js",
+				"/tmp/fz3temp-1/script.map.js",
+				"/home/azat/Downloads/radiation/individual/review.txt",
+				"/home/azat/Downloads/radiation/individual/banners.txt",
+				"/tmp/fz3temp-1/index 3.php",
+				"/tmp/fz3temp-1/index 2.php",
+				"/tmp/fz3temp-1/test2.php",
+				"/tmp/fz3temp-1/test.txt",
+				"/home/azat/Downloads/backup.htaccess",
+				"/home/azat/Downloads/salary-people.txt",
+				"/tmp/SendAnalyticsGoal-function.js",
+				"/home/azat/.themes/Zuki Blues/xfwm4/themerc",
+				"/home/azat/Downloads/eo/ftp_log_160701-160710.txt",
+				"/tmp/encoding-utf-8.htaccess",
+				"/home/azat/Downloads/file.html",
+				"/home/azat/Downloads/file2.php",
+				"/tmp/fz3temp-1/includes.php",
+				"/tmp/fz3temp-1/client_secret.json",
+				"/media/azat/SP UFD U2/курс/01 - Настройка рабочего окружения/Дополнительные материалы.txt",
+				"/home/azat/Downloads/sistema-im.2017-05-21_02-00-03.readme",
+				"/tmp/fz3temp-1/google6a36b064222665e5.html",
+				"/tmp/fz3temp-1/yandex_9bc5a8f3d47bb3e5.html",
+				"/home/azat/Downloads/index.html",
+				"/home/azat/Downloads/robots.txt",
+				"/home/azat/Downloads/configuration.php",
+				"/home/azat/Downloads/pollysfl_devdb.sql"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"s",
+					"depen",
+					"CLONE_ITEMS",
+					"това",
+					"CLONE_ITEMS",
+					"Похожие товары по свойствам",
+					"Похожие товары по свойствам:",
+					"Похожие товары по свойствам",
+					"CLONE_ITEMS",
+					"h2",
+					"console",
+					"disable",
+					"checkbox",
+					"disabled",
+					"ajax",
+					"bx_filter_block",
+					"checkbox",
+					"reload",
+					"bx-filter-parameters-box",
+					"bx_filter_param_label",
+					"-",
+					"bx-filter-input-checkbox",
+					"bx_filter_input_checkbox",
+					"bx_filter",
+					"click",
+					"label",
+					"HTML_VALUE",
+					"label",
+					"CT_BCSF_FILTER_ALL",
+					"label",
+					"'],\n",
+					"title3",
+					"table",
+					"Оплатить покупку",
+					"ORDER_SUCCESSFULLY_CREATED",
+					"thanks",
+					"FOLLOW_THE_ORDER",
+					"СПАСИБО ЗА ПОКУПКУ",
+					"thanks",
+					"submit",
+					"DELIVERY_INFO",
+					"Доставка и оплата",
+					"title5",
+					"title4",
+					"SOA_TEMPL_PERSONAL_DATA",
+					"title4",
+					"Бесплатно",
+					"Квартир",
+					"ORDER_PROP",
+					"templateFolder",
+					"title4",
+					"11",
+					"SOA_TEMPL_PERSONAL_DATA",
+					"SOA_OTHER_LOCATION",
+					"SOA_TEMPL_ORDER_TITLE",
+					"SOA_TEMPL_ADDRESS",
+					"SOA_NOT_SELECTED_ALT",
+					"SOA_TEMPL_ADDRESS",
+					"title4",
+					"BUYER_STORE",
+					"include",
+					"STOF_NEXT_STEP",
+					"title1",
+					"jq-selectbox",
+					"ORDER_DATA",
+					"title1",
+					"fullArea grayBlock saleOrderAjax",
+					"fullArea",
+					"fullArea grayBlock saleOrderAjax",
+					"ORDER_DATA",
+					"title1",
+					"notAvailable",
+					"ORDER_FORM",
+					"fShowStore",
+					"arDelivery",
+					"deliveryLink",
+					"deliveryLink\ndeliveryLink",
+					"deliveryLink",
+					"GetMess",
+					"\";\n",
+					"minPrice",
+					"title4",
+					"description",
+					"canBuy",
+					"CT_BCE_NOT_AVAILABLE_ERROR",
+					"notAvailable",
+					"canBuy",
+					"CAN_BUY",
+					"canBuy",
+					"notAvailable",
+					"PRICE",
+					"filterBlock",
+					"@",
+					"column",
+					"column1",
+					"bx-ui-sls-route",
+					"10",
+					".sh",
+					"skin",
+					"setPassword",
+					"validate",
+					"login",
+					"model",
+					"login",
+					"!",
+					"user"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_",
+					"hg remove"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 202.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1285.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"borde",
+						"border-radius"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"D",
+						"DataC"
+					],
+					[
+						"print",
+						"print_r"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/azat/Downloads/03 - Верстка(часть 1)/Дополнительные материалы и ссылки.txt",
+					"settings":
+					{
+						"buffer_size": 406,
+						"encoding": "Cyrillic (Windows 1251)",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 332.0,
+				"last_filter": "menu",
+				"selected_items":
+				[
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"mi",
+						"View: Toggle Minimap"
+					],
+					[
+						"min",
+						"View: Toggle Minimap"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Pa",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax: htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"set syntax C",
+						"Set Syntax: C#"
+					],
+					[
+						"ne",
+						"ANF: New File"
+					],
+					[
+						"set syntax ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"new",
+						"ANF: New File"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"ta",
+						"View: Toggle Tabs"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"",
+						"ANF: Delete File"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"gist",
+						"Gist: Copy Gist URL"
+					],
+					[
+						"gis",
+						"Package Control: List Packages"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"set ",
+						"Set Syntax: Emmet"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"set Syntax H",
+						"Set Syntax: HTML"
+					],
+					[
+						"set",
+						"Set Syntax: Emmet"
+					],
+					[
+						"wra",
+						"Word Wrap: Toggle"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"a+1",
+					"_",
+					"a = 1",
+					"_",
+					"print(1)",
+					"_",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": true,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/azat/Downloads/ls-builder",
+				"/home/azat/Downloads/ls-builder/gulp",
+				"/home/azat/Downloads/ls-builder/source/js",
+				"/home/azat/Downloads/ls-builder/source/template",
+				"/home/azat/Downloads/ls-builder/source/template/pages"
+			],
+			"file_history":
+			[
+				"/home/azat/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/home/azat/.config/sublime-text-3/Packages/User/Package Control.last-run",
+				"/home/azat/Downloads/ls-builder/gulpfile.js",
+				"/home/azat/Downloads/ls-builder/gulp/tasks/serve.js",
+				"/home/azat/Downloads/ls-builder/package.json",
+				"/home/azat/projects/TTS/tts-html/404.html",
+				"/home/azat/Downloads/ls-builder/bower.json",
+				"/home/azat/Downloads/ls-builder/source/style/common/greating.scss",
+				"/home/azat/Downloads/ls-builder/source/template/common/_greating.pug",
+				"/home/azat/Downloads/ls-builder/gulp/tasks/js.foundation.js",
+				"/home/azat/Downloads/app/gulpfile.js",
+				"/home/azat/Downloads/app/package.json",
+				"/home/azat/Downloads/app/source/inner.css",
+				"/home/azat/Downloads/app/source/app.css",
+				"/home/azat/Downloads/ls-builder/source/template/_template.pug",
+				"/home/azat/Downloads/ls-builder/source/template/pages/index.pug",
+				"/home/azat/Downloads/app/production/styles.css",
+				"/home/azat/Downloads/app/node_modules/gulp/package.json",
+				"/home/azat/Downloads/app/node_modules/jquery/package.json",
+				"/home/azat/Downloads/spsr/1/readme.txt",
+				"/home/azat/Downloads/spsr/1/source/PostHTTP.php",
+				"/home/azat/Downloads/app/index.html",
+				"/home/azat/Downloads/app/app.css",
+				"/home/azat/Downloads/11362956.fb2",
+				"/home/azat/Downloads/rashid.txt",
+				"/home/azat/Downloads/fslkjfl",
+				"/media/azat/SP UFD U2/курс/02 - Workflow/Дополнительные материалы и ссылки.txt",
+				"/home/azat/Downloads/vlad-education.txt",
+				"/home/azat/Downloads/radiation/timur.txt",
+				"/tmp/fz3temp-1/result_modifier.php",
+				"/tmp/fz3temp-1/component_epilog.php",
+				"/tmp/fz3temp-1/index.php",
+				"/tmp/fz3temp-1/template 2.php",
+				"/tmp/fz3temp-1/template_collection.php",
+				"/tmp/fz3temp-1/element.php",
+				"/tmp/fz3temp-1/.htaccess",
+				"/tmp/fz3temp-1/functions.php",
+				"/tmp/fz3temp-1/init.php",
+				"/tmp/fz3temp-1/constants.php",
+				"/tmp/fz3temp-1/template_safe.php",
+				"/tmp/fz3temp-1/template.php",
+				"/tmp/fz3temp-1/template 4.php",
+				"/tmp/fz3temp-1/template 3.php",
+				"/home/azat/Downloads/info.php",
+				"/tmp/fz3temp-1/.description.php",
+				"/tmp/fz3temp-1/config.php",
+				"/tmp/fz3temp-1/payment_result.php",
+				"/tmp/fz3temp-1/result.php",
+				"/tmp/fz3temp-1/result 2.php",
+				"/tmp/fz3temp-1/extract_ancodes.php",
+				"/tmp/fz3temp-1/build_dict.php",
+				"/tmp/fz3temp-1/mrd2xml.php",
+				"/tmp/fz3temp-1/extract_ancodes_map.php",
+				"/tmp/fz3temp-1/extract_gramtab.php",
+				"/tmp/fz3temp-1/convert_russian_jo.php",
+				"/tmp/fz3temp-1/extract_graminfo_header.php",
+				"/tmp/fz3temp-1/extract_gramtab.bat",
+				"/tmp/fz3temp-1/build_dict.bat",
+				"/tmp/fz3temp-1/web.config",
+				"/tmp/fz3temp-1/oshibka_yandex.php",
+				"/tmp/fz3temp-1/oplata_yandex.php",
+				"/tmp/fz3temp-1/error.php",
+				"/tmp/fz3temp-1/test.php",
+				"/tmp/fz3temp-1/test.log",
+				"/tmp/fz3temp-1/4607.html",
+				"/tmp/fz3temp-1/logDev_27.01.2017.txt",
+				"/tmp/fz3temp-1/logDev_25.04.2017.txt",
+				"/home/azat/Downloads/radiation/individual/timur.txt",
+				"/home/azat/Downloads/radiation/eo/log.txt",
+				"/tmp/fz3temp-1/script 2.js",
+				"/tmp/fz3temp-1/template 7.php",
+				"/tmp/fz3temp-1/section.php",
+				"/tmp/fz3temp-1/section_vertical.php",
+				"/tmp/fz3temp-1/template 9.php",
+				"/tmp/fz3temp-1/style.css",
+				"/tmp/fz3temp-1/style 2.css",
+				"/tmp/fz3temp-1/script 3.js",
+				"/tmp/fz3temp-1/template 8.php",
+				"/tmp/fz3temp-1/jquery.formstyler.css",
+				"/tmp/fz3temp-1/ajax.php",
+				"/tmp/fz3temp-1/.parameters.php",
+				"/tmp/fz3temp-1/section_horizontal.php",
+				"/tmp/fz3temp-1/template 6.php",
+				"/tmp/fz3temp-1/confirm.php",
+				"/tmp/fz3temp-1/template 5.php",
+				"/tmp/fz3temp-1/payment.php",
+				"/tmp/fz3temp-1/delivery.php",
+				"/tmp/fz3temp-1/summary.php",
+				"/tmp/fz3temp-1/detail.php",
+				"/tmp/fz3temp-1/script.js",
+				"/tmp/fz3temp-1/props.php",
+				"/tmp/fz3temp-1/props_format.php",
+				"/tmp/fz3temp-1/related_props.php",
+				"/tmp/fz3temp-1/template 10.php",
+				"/tmp/fz3temp-1/person_type.php",
+				"/tmp/fz3temp-1/map.php",
+				"/tmp/fz3temp-1/auth.php",
+				"/tmp/fz3temp-1/step.php",
+				"/tmp/fz3temp-1/start.php",
+				"/tmp/fz3temp-1/paysystem.php",
+				"/tmp/fz3temp-1/delivery_extra_params.php",
+				"/tmp/fz3temp-1/component_epilog 2.php",
+				"/tmp/fz3temp-1/.parameters 2.php",
+				"/tmp/fz3temp-1/script.min.js",
+				"/tmp/fz3temp-1/script.map.js",
+				"/home/azat/Downloads/radiation/individual/review.txt",
+				"/home/azat/Downloads/radiation/individual/banners.txt",
+				"/tmp/fz3temp-1/index 3.php",
+				"/tmp/fz3temp-1/index 2.php",
+				"/tmp/fz3temp-1/test2.php",
+				"/tmp/fz3temp-1/test.txt",
+				"/home/azat/Downloads/backup.htaccess",
+				"/home/azat/Downloads/salary-people.txt",
+				"/tmp/SendAnalyticsGoal-function.js",
+				"/home/azat/.themes/Zuki Blues/xfwm4/themerc",
+				"/home/azat/Downloads/eo/ftp_log_160701-160710.txt",
+				"/tmp/encoding-utf-8.htaccess",
+				"/home/azat/Downloads/file.html",
+				"/home/azat/Downloads/file2.php",
+				"/tmp/fz3temp-1/includes.php",
+				"/tmp/fz3temp-1/client_secret.json",
+				"/media/azat/SP UFD U2/курс/01 - Настройка рабочего окружения/Дополнительные материалы.txt",
+				"/home/azat/Downloads/sistema-im.2017-05-21_02-00-03.readme",
+				"/tmp/fz3temp-1/google6a36b064222665e5.html",
+				"/tmp/fz3temp-1/yandex_9bc5a8f3d47bb3e5.html",
+				"/home/azat/Downloads/index.html",
+				"/home/azat/Downloads/robots.txt",
+				"/home/azat/Downloads/configuration.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"s",
+					"depen",
+					"CLONE_ITEMS",
+					"това",
+					"CLONE_ITEMS",
+					"Похожие товары по свойствам",
+					"Похожие товары по свойствам:",
+					"Похожие товары по свойствам",
+					"CLONE_ITEMS",
+					"h2",
+					"console",
+					"disable",
+					"checkbox",
+					"disabled",
+					"ajax",
+					"bx_filter_block",
+					"checkbox",
+					"reload",
+					"bx-filter-parameters-box",
+					"bx_filter_param_label",
+					"-",
+					"bx-filter-input-checkbox",
+					"bx_filter_input_checkbox",
+					"bx_filter",
+					"click",
+					"label",
+					"HTML_VALUE",
+					"label",
+					"CT_BCSF_FILTER_ALL",
+					"label",
+					"'],\n",
+					"title3",
+					"table",
+					"Оплатить покупку",
+					"ORDER_SUCCESSFULLY_CREATED",
+					"thanks",
+					"FOLLOW_THE_ORDER",
+					"СПАСИБО ЗА ПОКУПКУ",
+					"thanks",
+					"submit",
+					"DELIVERY_INFO",
+					"Доставка и оплата",
+					"title5",
+					"title4",
+					"SOA_TEMPL_PERSONAL_DATA",
+					"title4",
+					"Бесплатно",
+					"Квартир",
+					"ORDER_PROP",
+					"templateFolder",
+					"title4",
+					"11",
+					"SOA_TEMPL_PERSONAL_DATA",
+					"SOA_OTHER_LOCATION",
+					"SOA_TEMPL_ORDER_TITLE",
+					"SOA_TEMPL_ADDRESS",
+					"SOA_NOT_SELECTED_ALT",
+					"SOA_TEMPL_ADDRESS",
+					"title4",
+					"BUYER_STORE",
+					"include",
+					"STOF_NEXT_STEP",
+					"title1",
+					"jq-selectbox",
+					"ORDER_DATA",
+					"title1",
+					"fullArea grayBlock saleOrderAjax",
+					"fullArea",
+					"fullArea grayBlock saleOrderAjax",
+					"ORDER_DATA",
+					"title1",
+					"notAvailable",
+					"ORDER_FORM",
+					"fShowStore",
+					"arDelivery",
+					"deliveryLink",
+					"deliveryLink\ndeliveryLink",
+					"deliveryLink",
+					"GetMess",
+					"\";\n",
+					"minPrice",
+					"title4",
+					"description",
+					"canBuy",
+					"CT_BCE_NOT_AVAILABLE_ERROR",
+					"notAvailable",
+					"canBuy",
+					"CAN_BUY",
+					"canBuy",
+					"notAvailable",
+					"PRICE",
+					"filterBlock",
+					"@",
+					"column",
+					"column1",
+					"bx-ui-sls-route",
+					"10",
+					".sh",
+					"skin",
+					"setPassword",
+					"validate",
+					"login",
+					"model",
+					"login",
+					"!",
+					"user"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_",
+					"hg remove"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/azat/Downloads/ls-builder"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/azat/Downloads/03 - Верстка(часть 1)/Дополнительные материалы и ссылки.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 406,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										406,
+										406
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,0,0,0,25,1285,744,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 202.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

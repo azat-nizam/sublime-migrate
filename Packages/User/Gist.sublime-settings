@@ -1,0 +1,10 @@
+{
+    // Your GitHub API token
+    // see: https://github.com/condemil/Gist#generating-access-token
+    "token": "5bb37dae337631e8715c41d868853b68a4b848c8",
+
+    // Show GitHub users
+    // Example: "user1", "user2"
+    // "include_users": ["reaspekt"],
+}
+
