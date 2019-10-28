@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"detect_indentation": false,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
